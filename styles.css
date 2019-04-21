@@ -1,0 +1,16 @@
+body{
+  max-width: 500px;
+  margin: 0 auto;
+  height: 100vh;
+  overflow: hidden
+}
+.mic{
+  position: fixed;
+  bottom: 2vh;
+  margin: 0 auto;
+  background-color: #212CA4;
+  padding: 20px;
+  border-radius: 50%;
+  left: 50%;
+  margin-left: -45px;
+}
